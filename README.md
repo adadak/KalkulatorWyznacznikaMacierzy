@@ -12,6 +12,11 @@ wykorzystaniu różnych metod matematycznych. Program został
 zaimplementowany z wykorzystaniem bibliotek Swing i oferuje intuicyjny
 interfejs graficzny.
 
+<p align="center">
+  <img src="https://github.com/adadak/KalkulatorWyznacznikaMacierzy/blob/main/0.jpg" width="300">
+  <img src="https://github.com/adadak/KalkulatorWyznacznikaMacierzy/blob/main/1.jpg" width="300">
+</p>
+
 **Funkcjonalności**
 
 1.  **Wybór rozmiaru macierzy:** Użytkownik może wybrać rozmiar macierzy
